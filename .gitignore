@@ -21,3 +21,5 @@ target
 bin
 *.class
 *.iml
+# Ignore Gradle build output directory
+build
